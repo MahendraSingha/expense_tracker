@@ -1,0 +1,28 @@
+{
+  "transaction_details": [
+    {
+      "transaction_name": "buisness",
+      "transaction_type": "income",
+      "incomeOrExpObj": {
+        "name": "buisness",
+        "value": "10000"
+      },
+      "date": "2024-02-16",
+      "international": "yes",
+      "country_name": "USA",
+      "id": 2
+    },
+    {
+      "transaction_name": "salary",
+      "transaction_type": "income",
+      "incomeOrExpObj": {
+        "name": "salary",
+        "value": "60000"
+      },
+      "date": "2024-02-09",
+      "international": "no",
+      "country_name": "India",
+      "id": 3
+    }
+  ]
+}
